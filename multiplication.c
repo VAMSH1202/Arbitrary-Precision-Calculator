@@ -1,5 +1,5 @@
 /*******************************************************************************************************************************************************************
-* Name            : Oruganti Prem Sai
+* Name            : M vamshi
 * Title           : Multiplication
 * Description     : This function performs multiplication of two given large numbers and stores the result in the resultant list.
 * Prototype       : int multiplication(Dlist **head1, Dlist **tail1, Dlist **head2, Dlist **tail2, Dlist **headR);
