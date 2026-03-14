@@ -1,5 +1,5 @@
 /**************************************************************************************************************************************************************
-* Name           : Oruganti Prem Sai
+* Name           : M vamshi
 * File Name      : linked_list.c
 * Description    : Implementation file for linked list operations.
 *                  Defines various functions to manipulate singly and doubly linked lists.
