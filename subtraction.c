@@ -1,5 +1,5 @@
 /*******************************************************************************************************************************************************************
-* Name            : Oruganti Prem Sai
+* Name            : M vamshi
 * Title           : Subtraction
 * Description     : This function performs subtraction of two given large numbers (represented as doubly linked lists) and stores the result in the resultant list.
 * Prototype       : int subtraction(Dlist **head1, Dlist **tail1, Dlist **head2, Dlist **tail2, Dlist **headR);
