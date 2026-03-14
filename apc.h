@@ -1,5 +1,5 @@
 /**************************************************************************************************************************************************************
-* Name           : Oruganti Prem Sai
+* Name           : MIRYALA VAMSHI
 * File Name      : apc.h
 * Description    : Header file for Arbitrary Precision Calculator (APC)
 *                  Defines data structures, function prototypes, and necessary macros for the APC operations.
