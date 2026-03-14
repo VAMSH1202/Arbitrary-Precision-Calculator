@@ -1,5 +1,5 @@
 /**************************************************************************************************************************************************************
-* Name           : Oruganti Prem Sai
+* Name           : M vamshi
 * File Name      : main.c
 * Description    : Driver function for Arbitrary Precision Calculator (APC)
 *                  Handles command-line arguments, determines operation type, reads inputs, and calls respective operation functions (add, sub, mul, div).
